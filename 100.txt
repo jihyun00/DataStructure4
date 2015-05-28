@@ -1,0 +1,100 @@
+T 2
+D 3
+I 26
+P
+I 9
+I 28
+T 1
+T
+D
+T
+P
+I 34
+T
+I 19
+D
+T
+P
+D
+I 84
+T
+T
+D
+I 7
+I 47
+I 92
+D
+P
+D
+T
+T
+D
+P
+P
+T
+P
+D
+T
+I 4
+T
+T
+D
+T
+D
+P
+T
+P
+D
+P
+T
+D
+P
+T
+I 98
+T
+P
+D
+I 81
+I 22
+T
+P
+D
+D
+T
+I 57
+T
+T
+D
+I 38
+P
+P
+P
+I 3
+I 35
+I 54
+P
+D
+D
+P
+T
+P
+P
+I 78
+I 43
+I 17
+D
+I 1
+P
+T
+D
+T
+I 83
+P
+P
+D
+P
+P
+P
+P
+P
+P
